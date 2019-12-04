@@ -1,0 +1,15 @@
+.ball{
+    width: 50px;
+    height: 50px;
+    background-color: #e679f071;
+    border-radius: 25px;
+    position: absolute;
+}
+body{
+    background-color: #000000;
+}
+.point{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
